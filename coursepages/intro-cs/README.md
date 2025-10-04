@@ -8,10 +8,6 @@ This course has been developed by MIT and is available on [MIT's OCW](https://oc
 
 **Course Link:** <https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture/>
 
-## ⚠️ Under Review
-
-This course is under review. The course has been designed to accommodate people completely new to programming. However, if you find the course difficult to follow, you can try doing one of the [Intro to Programming courses](../intro-programming/README.md) and then return to this course. We would like to hear your feedback regarding this course, and whether you needed to do the [Intro to Programming courses](../intro-programming/README.md) first. Please provide your feedback on this RFC: <https://github.com/ossu/computer-science/issues/1266>.
-
 ## Instructions
 
 1. Open the [course link](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture/) given above. You will see a list of Lectures.
@@ -33,12 +29,114 @@ This course is under review. The course has been designed to accommodate people 
 
 ## Notes
 
-1. You don't need to install the full anaconda package to do this course. You can just download the Spyder IDE from here: <https://github.com/spyder-ide/spyder/releases/latest>. It comes bundles with python as well as some popular scientific python libraries (all the libraries which this course uses are included), but it is not as large or complex as the full anaconda distribution. You don't need to set up python separately or anything.
-2. You can use VS Code, or any text editor/IDE you prefer. If you are using a text editor/IDE other than Spyder/Anaconda, you should note that the course sometimes ask you to run some additional statements after running a python file. To do so, run `python -i file.py`. Then you can run additional statements. 
-3. You won't get any certificate for doing this course. If you really want a certificate, you need to do the faster instructor-paced [6.00.1x course on Edx](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) on Edx. Certificate of an introductory course like this is not very valuable, so unless you are absolutely sure, we recommend you to do the 6.100L course linked above instead.
-4. If for some reason you want to do the OCW version of the faster paced 6.0001 course, you can do that here: <https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/>.
-5. The course mentions the textbook [Introduction to Computation and Programming Using Python, third edition](https://mitpress.mit.edu/9780262542364/introduction-to-computation-and-programming-using-python/) as required reading. As with any course listed on OSSU, please remember: All paid additions should be considered optional. You will not fail this course if you do not read the textbook. "The book and the course lectures parallel each other, though there is more detail in the book about some topics." You are not missing out on enough for it to matter.
-
-## Extra Practice
+- [X] [Lecture 1: Introduction](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-1-introduction/)
+    - [X] Watch Lecture
+    - [X] Read Notes
+    - [X] Complete Finger Exercises
+    - [ ] Complete Subset
+- [X] [Lecture 2: Strings, Input/Output, Branching](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-2-strings-inputoutput-branching/)
+    - [X] Watch Lecture
+    - [X] Read Notes
+    - [X] Complete Finger Exercises
+- [X] [Lecture 3: Iteration](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-3-iteration/)
+    - [X] Watch Lecture
+    - [X] Read Notes
+    - [X] Complete Finger Exercises
+- [ ] [Lecture 4: Loops over Strings, Guess-and-Check, Binary](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-4-loops-over-strings-guess-and-check-binary/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+- [ ] [Lecture 5: Floats and Approximation Methods](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-5-floats-and-approximation-methods/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+- [ ] [Lecture 6: Bisection Search](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-6-bisection-search/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+- [ ] [Lecture 7: Decomposition, Abstraction, Functions](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-7-decomposition-abstraction-functions/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+- [ ] [Lecture 8: Functions as Objects](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-8-functions-as-objects/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+    - [ ] Complete Subset
+- [ ] [Lecture 9: Lambda Functions, Tuples, and Lists](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-9-lambda-functions-tuples-and-lists/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+- [ ] [Lecture 10: Lists, Mutability](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-10-lists-mutability/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+- [ ] [Lecture 11: Aliasing, Cloning](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-11-aliasing-cloning/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+- [ ] [Lecture 12: List Comprehension, Functions as Objects, Testing, Debugging](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-12-list-comprehension-functions-as-objects-testing-debugging/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+- [ ] [Lecture 13: Exceptions, Assertions](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-13-exceptions-assertions/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+- [ ] [Lecture 14: Dictionaries](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-14-dictionaries/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+- [ ] [Lecture 15: Recursion](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-15-recursion/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+    - [ ] Complete Subset
+- [ ] [Lecture 16: Recursion on Non-Numerics](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-16-recursion-on-non-numerics/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+- [ ] [Lecture 17: Python Classes](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-17-python-classes/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+- [ ] [Lecture 18: More Python Class Methods](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-18-more-python-class-methods/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+- [ ] [Lecture 19: Inheritance](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-19-inheritance/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+    - [ ] Complete Subset
+- [ ] [Lecture 20: Fitness Tracker Object-Oriented Programming Example](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-20-fitness-tracker-object-oriented-programming-example/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+- [ ] [Lecture 21: Timing Programs, Counting Operations](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-21-timing-programs-counting-operations/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+- [ ] [Lecture 22: Big Oh and Theta](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-22-big-oh-and-theta/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+- [ ] [Lecture 23: Complexity Classes Examples](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-23-complexity-classes-examples/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+- [ ] [Lecture 24: Sorting Algorithms](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-24-sorting-algorithms/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+    - [ ] Complete Subset
+- [ ] [Lecture 25: Plotting](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-25-plotting/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
+- [ ] [Lecture 26: List Access, Hashing, Simulations, and Wrap-Up](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-26-list-access-hashing-simulations-and-wrap-up/)
+    - [ ] Watch Lecture
+    - [ ] Read Notes
+    - [ ] Complete Finger Exercises
 
 1. [https://introcomp.mit.edu/spring25/practice](https://introcomp.mit.edu/spring25/practice)
