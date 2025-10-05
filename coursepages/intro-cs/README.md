@@ -42,10 +42,10 @@ This course has been developed by MIT and is available on [MIT's OCW](https://oc
     - [X] Watch Lecture
     - [X] Read Notes
     - [X] Complete Finger Exercises
-- [ ] [Lecture 4: Loops over Strings, Guess-and-Check, Binary](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-4-loops-over-strings-guess-and-check-binary/)
+- [X] [Lecture 4: Loops over Strings, Guess-and-Check, Binary](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-4-loops-over-strings-guess-and-check-binary/)
     - [X] Watch Lecture
-    - [ ] Read Notes
-    - [ ] Complete Finger Exercises
+    - [X] Read Notes
+    - [X] Complete Finger Exercises
 - [ ] [Lecture 5: Floats and Approximation Methods](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-5-floats-and-approximation-methods/)
     - [ ] Watch Lecture
     - [ ] Read Notes
